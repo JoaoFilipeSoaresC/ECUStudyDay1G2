@@ -12,8 +12,8 @@ CTW CI/CD Academy: Day 1 - ECUStudy module
 
 3. Provide open source examples for each of these components: 
 
-1. Bootloader: https://www.tecmint.com/best-linux-boot-loaders/
-2. Kernel: https://www.linuxadictos.com/en/kernel-open-source-beyond-linux.html
-3. Init System: https://www.tecmint.com/best-linux-init-systems/
-4. libc: https://www.gnu.org/software/libc/
-5. Package manager: https://www.tecmint.com/cross-distribution-package-managers-for-linux/
+    1. Bootloader: https://www.tecmint.com/best-linux-boot-loaders/
+    2. Kernel: https://www.linuxadictos.com/en/kernel-open-source-beyond-linux.html
+    3. Init System: https://www.tecmint.com/best-linux-init-systems/
+    4. libc: https://www.gnu.org/software/libc/
+    5. Package manager: https://www.tecmint.com/cross-distribution-package-managers-for-linux/
