@@ -4,11 +4,11 @@ CTW CI/CD Academy: Day 1 - ECUStudy module
 
 1. Create and compile a hello world program in C:
 
-gcc -W helloworld.c -o helloworld
+    gcc -W helloworld.c -o helloworld
 
 2. Register to which CPU architecture the executable was compiled to:
 
-file helloworld
+    file helloworld
 
 3. Provide open source examples for each of these components: 
 
